@@ -19,7 +19,7 @@ Afficher le contenu du dossier courant version longue avec les fichiers cachés
 Afficher le chemin du dossier courant
 
 ## Exercice 7
-Se déplacer dans le dossier **Document** 
+Se déplacer dans le dossier **Documents** 
 
 ## Exercice 8
 Afficher le contenu de ce dossier
